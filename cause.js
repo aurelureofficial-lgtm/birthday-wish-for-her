@@ -2,7 +2,7 @@
 
 const reasons = [
   { 
-    text: "You’re not just my favorite person — you’re the one who feels like my first love, and honestly, the only one I can ever imagine as my last. 💖", 
+    text: "You’re not just my favorite person 💖", 
     emoji: "🌷",
     gif: "gif1.gif"
   },
