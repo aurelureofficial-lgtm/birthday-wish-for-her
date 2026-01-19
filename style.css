@@ -47,13 +47,14 @@ h2 {
     color: rgba(255, 105, 180, 0.5);
     text-shadow: 0 0 10px rgba(255, 37, 146, 0.5);
     margin-bottom: 2rem;
-    
+    font-family: ;
 }
 .greeting {
     font-size: 1.5rem;
     color: #8a2be2;
     margin-bottom: 3rem;
     min-height: 2em;
+        font-family: cursive;
 }
 
 .cta-button {
