@@ -2,7 +2,7 @@
 
 const reasons = [
   { 
-    text: "You’re not just my favorite person 💖", 
+    text: "You’re my favorite person 💖", 
     emoji: "🌷",
     gif: "gif1.gif"
   },
